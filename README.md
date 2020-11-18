@@ -11,5 +11,6 @@ most of popular math methods such as: sqrt(), getFactorial() in this repo
 ### Connect me via:
 [Facebook](http://facebook.com/giao.lang.bis)
 [Email](mailto:hoang.nguyenthe@gmail.com)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### © 2020 by giao.lang | FPT University, HCMC

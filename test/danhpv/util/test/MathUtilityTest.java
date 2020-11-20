@@ -38,7 +38,7 @@ public class MathUtilityTest {
     //không thể bắt được, không phải là 1 value để so sánh
     //do đó dùng assertEquals là không được vì nó là exception
     //nên ta dùng kỹ thuật khác
-    @Test(expected = SQLException.class)
+    @Test(expected = IllegalArgumentException.class)
     public void getFactorial_ThrowException_IfInvalidArgument() {
         MathUtility.getFactorial(-5);
     }
